@@ -27,7 +27,7 @@
 # 0 <= k <= 2 * 10^8
 # points[i][0] < points[j][0] for all 1 <= i < j <= points.length
 # xi form a strictly increasing sequence.
-
+# ref: https://leetcode.com/problems/max-value-of-equation/discuss/709231/Python-Stack-O(N)
 class Solution:
     def findMaxValueOfEquation(self, points: List[List[int]], k: int) -> int:
         # sol 1: priority queue
