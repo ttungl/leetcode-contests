@@ -1,4 +1,5 @@
 # Max Value of Equation 1499. 
+# ttungl@gmail.com
 
 # Given an array points containing the coordinates of points on a 2D plane, sorted by the x-values, where points[i] = [xi, yi] such that xi < xj for all 1 <= i < j <= points.length. You are also given an integer k.
 
@@ -27,7 +28,10 @@
 # 0 <= k <= 2 * 10^8
 # points[i][0] < points[j][0] for all 1 <= i < j <= points.length
 # xi form a strictly increasing sequence.
-
+#
+#
+# ref: https://leetcode.com/problems/max-value-of-equation/discuss/709231/Python-Stack-O(N)
+ 
 class Solution:
     def findMaxValueOfEquation(self, points: List[List[int]], k: int) -> int:
         # sol 1: priority queue
@@ -47,6 +51,7 @@ class Solution:
             
         # sol 2:
         # time O(n) space O(n)
+
         queue = collections.deque()
         res = float('-inf')
         for x,y in points:
