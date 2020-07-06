@@ -1,5 +1,12 @@
 # Leetcode Contests
 
+**Weekly Contest 196:**
++ [Can Make Arithmetic Progression From Sequence]( )
++ [Last Moment Before All Ants Fall Out of a Plank]( )
++ [Count Submatrices With All Ones]( )
++ [Minimum Possible Integer After at Most K Adjacent Swaps On Digits]( )
+
+
 **Weekly Contest 195:**
 + [Path Crossing](https://github.com/ttungl/leetcode-contests/blob/master/codes/Path%20Crossing%201496.py)
 + [Check If Array Pairs Are Divisible by k](https://github.com/ttungl/leetcode-contests/blob/master/codes/Check%20If%20Array%20Pairs%20Are%20Divisible%20by%20k%201497.py)
