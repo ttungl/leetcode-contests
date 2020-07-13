@@ -5,7 +5,10 @@
 + [Solve linked list problems](https://leetcode.com/problems/add-two-numbers/discuss/1340/a-summary-about-how-to-solve-linked-list-problem-c)
 
 **Weekly Contest 197:**
-+ To be Updated soon...
++ [Number of Good Pairs](https://github.com/ttungl/leetcode-contests/blob/master/codes/Number%20of%20Good%20Pairs%201512.py)
++ [Number of Substrings With Only 1s](https://github.com/ttungl/leetcode-contests/blob/master/codes/Number%20of%20Substrings%20With%20Only%201s%201513.py)
++ [Path with Maximum Probability](https://github.com/ttungl/leetcode-contests/blob/master/codes/Path%20with%20Maximum%20Probability%201514.py)
++ [Best Position for a Service Centre]()
 
 
 **Weekly Contest 196:**
