@@ -1,5 +1,13 @@
 # Leetcode Contests 
 
+**Pinned**
++ [Solve most substring problems](https://leetcode.com/problems/minimum-window-substring/discuss/26808/here-is-a-10-line-template-that-can-solve-most-substring-problems)
++ [Solve linked list problems](https://leetcode.com/problems/add-two-numbers/discuss/1340/a-summary-about-how-to-solve-linked-list-problem-c)
+
+**Weekly Contest 197:**
++ To be Updated soon...
+
+
 **Weekly Contest 196:**
 + [Can Make Arithmetic Progression From Sequence ](https://github.com/ttungl/leetcode-contests/blob/master/codes/Can%20Make%20Arithmetic%20Progression%20From%20Sequence.py)
 + [Last Moment Before All Ants Fall Out of a Plank ](https://github.com/ttungl/leetcode-contests/blob/master/codes/Last%20Moment%20Before%20All%20Ants%20Fall%20Out%20of%20a%20Plank%201503.py)
